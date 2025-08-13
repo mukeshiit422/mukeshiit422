@@ -1,7 +1,7 @@
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=mukeshiit422&label=Profile%20views&color=6366f1&style=for-the-badge)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-8b5cf6?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/aryamanxd)
+![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-8b5cf6?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
 
 </div>
 
@@ -11,15 +11,14 @@
 
 <div align="center">
   
-<pre>
-<code>
+```ascii
 ╔══════════════════════════════════════════════════════════════╗
 ║  🌟 SOFTWARE DEVELOPER | INDIA 🇮🇳 | INNOVATION ENTHUSIAST  ║
 ╚══════════════════════════════════════════════════════════════╝
-</code>
-  </pre>
+```
 
 </div>
+
 
 <div align="center">
   
