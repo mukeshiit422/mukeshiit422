@@ -112,10 +112,6 @@
 </h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mukeshiit422/mukeshiit422/output/github-snake.svg" alt="GitHub Snake Animation" />
-</div>
-
-<div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mukeshiit422&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
