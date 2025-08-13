@@ -10,7 +10,7 @@
 
 I'm a passionate full stack developer experienced in designing and developing **production-grade systems** using **React.js**, **Next.js**, **Node.js**, **Spring Boot**, and cloud-native stacks like **AWS** and **Docker**.
 
-From building QR-based authentication systems to optimizing high-traffic UI components, I focus on creating solutions that scale well and perform reliably in real-world scenarios.
+From building distributed systems to optimizing high-traffic UI components, I focus on creating solutions that scale well and perform reliably in real-world scenarios.
 
 ---
 
