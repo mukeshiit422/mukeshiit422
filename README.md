@@ -13,7 +13,7 @@
   
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║  🌟 SOFTWARE DEVELOPER | INDIA 🇮🇳 | INNOVATION ENTHUSIAST  ║
+║  🌟 SOFTWARE DEVELOPER | INDIA 🇮🇳 | INNOVATION ENTHUSIAST     ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -133,8 +133,8 @@
   
 ```ascii
 ╭─────────────────────────────────────────────────────────╮
-│  ⚡ "BUILDING SECURE SYSTEMS & SOLVING COMPLEX PROBLEMS"│  
-│        ~ Mukesh Kumar • Full Stack Developer @ Lowe's ~             │
+│⚡ "BUILDING SECURE SYSTEMS & SOLVING COMPLEX PROBLEMS" ⚡ │
+│    ~ Mukesh Kumar • Full Stack Developer @ Lowe's ~     │
 ╰─────────────────────────────────────────────────────────╯
 ```
 
